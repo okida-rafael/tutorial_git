@@ -1,3 +1,3 @@
 # tutorial_git
 
-  Tutorial de conceitos e comandos básicos de git.
+  <p>Tutorial de conceitos e comandos básicos de git.</p>
